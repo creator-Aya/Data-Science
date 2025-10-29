@@ -143,7 +143,7 @@ projet_data_science/
 ├── reports/             # Rapports et analyses
 └── requirements.txt     # Dépendances
 ```
-
+(/=dossier fermé)
 ---
 
 ## MODULE 2 : STATISTIQUES POUR LA SCIENCE DES DONNÉES
