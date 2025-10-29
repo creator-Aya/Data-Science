@@ -5,7 +5,7 @@ A.LARHLIMI
 ---
 GHARRAB AYA
 
-<img src="photo personnelle 1.jpg" style="height:223px; margin-right:264px;"/>
+<img src="photo personnelle 1.jpg" style="height:264px; margin-right:264px;"/>
 
 
 
