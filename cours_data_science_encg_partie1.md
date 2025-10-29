@@ -21,6 +21,7 @@ La **science des données** (Data Science) est un domaine interdisciplinaire qui
 - **Optimisation opérationnelle** : Réduire les coûts, améliorer l'efficacité
 - **Avantage concurrentiel** : Anticiper les tendances du marché
 - **Innovation** : Développer de nouveaux produits et services
+- **AUDIT** : Doit être structuré et bien fouillé pour une bonne maîtrise de données.
 
 **Exemples d'applications en entreprise :**
 
@@ -61,7 +62,7 @@ Le processus de science des données suit généralement un cycle itératif :
    - Validation croisée
    - Tests sur données de production
 
-7. **Déploiement et monitoring**
+7. **Déploiement et monitoring**(installation des jalons)
    - Mise en production
    - Suivi des performances
    - Maintenance et mises à jour
@@ -75,7 +76,7 @@ Le processus de science des données suit généralement un cycle itératif :
 - Facilement analysables
 
 **Données semi-structurées :**
-- JSON, XML
+- JSON, XML(format JSON=un dictionnaire)
 - Logs système
 - Structure flexible
 
@@ -96,7 +97,7 @@ Le **Big Data** se caractérise par les **5 V** :
 5. **Valeur** : Capacité à extraire des insights actionnables
 
 **Technologies Big Data :**
-- **Hadoop** : Framework de traitement distribué
+- **Hadoop** : Framework de traitement distribué(bibliothèques de ressources structurées et prêtes pour l'utilisation)
 - **Spark** : Moteur de traitement rapide en mémoire
 - **NoSQL** : Bases de données non relationnelles (MongoDB, Cassandra, Redis)
 
