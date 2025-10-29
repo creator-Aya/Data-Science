@@ -5,7 +5,7 @@ A.LARHLIMI
 ---
 GHARRAB AYA
 
-<img src="Photo personnelle 1   " style="height:464px;margin-right:432px"/>
+<img src="Photo personnelle 1   " style="height:123px;margin-right:234px"/>
 # PARTIE 1 : FONDAMENTAUX DE LA SCIENCE DES DONNÉES
 
 ---
