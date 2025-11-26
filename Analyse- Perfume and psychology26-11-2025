@@ -1,7 +1,13 @@
 Perfume and Psychology
 
  
- <img src="Photo personnelle 1.jpg" style="height:264px; margin-right:264px;"/>
+ 
+from PIL import Image
+import matplotlib.pyplot as plt
+
+img = Image.open("Photo personnelle 1.jpg")
+plt.imshow(img)
+plt.axis("off")
 
 
 GHARRAB AYA
