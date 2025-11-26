@@ -1,0 +1,78 @@
+Perfume and Psychology
+
+
+
+
+
+
+Le dataset décrit une étude sur l’impact des fragrances (parfums, huiles essentielles, désodorisants) sur l’activité psychophysiologique humaine, mesurée principalement par EEG.
+
+🧠 1. Contenu du dataset
+
+Le dataset inclut probablement :
+
+✔ Données EEG
+
+Signaux bruts ou puissances des bandes : alpha, beta, theta, delta
+
+Mesures sur plusieurs canaux (Fp1, Fp2, O2, etc.)
+
+Phases : baseline, exposition, récupération
+
+✔ Informations sur les odeurs
+
+Type de fragrance (huile essentielle, parfum…)
+
+Molécules principales : linalool, citronellol, geraniol
+
+Origine (plantes aromatiques)
+
+Concentration et durée d’exposition
+
+✔ Données psychophysiologiques
+
+Stress, humeur, vigilance
+
+Paramètres physiologiques éventuels : fréquence cardiaque, tension
+
+✔ Données participants
+
+Variables simples (âge, état émotionnel initial)
+
+🌿 2. Objectif de l’étude
+
+Étudier comment l’inhalation de fragrances influence :
+
+l’activité cérébrale
+
+le stress
+
+la vigilance
+
+la cognition
+
+Les résultats typiques :
+
+↑ alpha → relaxation
+
+↑ beta → attention / stimulation
+
+↑ theta/delta → fatigue ou baisse cognitive
+
+📈 3. Utilisations possibles du dataset
+
+Comparer les effets cérébraux de différentes odeurs
+
+Développer des modèles ML pour prédire l’état mental à partir de l’EEG
+
+Identifier les molécules les plus relaxantes ou stimulantes
+
+Études en aromathérapie, bien-être, psychologie, neurosciences
+
+⚠️ 4. Limites potentielles
+
+Forte variabilité entre individus
+
+Bruit dans les signaux EEG
+
+Habituation olfactive
